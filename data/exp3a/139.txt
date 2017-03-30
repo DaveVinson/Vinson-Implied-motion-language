@@ -1,0 +1,7 @@
+Mon Apr 21 12:44:41 MDT 2014
+4138	169.95	154.6	4	Null	down	
+mousemove
+4138	9523	169.95	154.6	Null	down
+4138	9539	169.95	154.6	Null	down
+4138	9556	169.95	154.6	Null	down
+4138	9572	169.95	154.6	Null	down

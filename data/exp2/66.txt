@@ -1,0 +1,10 @@
+Fri Apr 4 7:03:22 MDT 2014
+4144	373.1	193.85	5	backward	down	The car moved backward.
+mousemove
+4144	18249	373.05	193.85	backward	down
+4144	18267	373.05	193.85	backward	down
+4144	18282	373.05	193.85	backward	down
+4144	18299	373.05	193.85	backward	down
+4144	18316	373.05	193.85	backward	down
+4144	18333	373.05	193.85	backward	down
+4144	18350	373.05	193.85	backward	down

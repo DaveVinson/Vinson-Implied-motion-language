@@ -1,0 +1,18 @@
+Mon Apr 7 7:24:54 MDT 2014
+5208	345.7	171.5	2	forward	down	The car moved forward.
+mousemove
+5208	13693	345.5	171.5	forward	down
+5208	13710	345.5	171.5	forward	down
+5208	13728	345.5	171.5	forward	down
+5208	13744	345.5	171.5	forward	down
+5208	13761	345.5	171.5	forward	down
+5208	13777	345.5	171.5	forward	down
+5208	13793	345.5	171.5	forward	down
+5208	13811	345.5	171.5	forward	down
+5208	13827	345.5	171.5	forward	down
+5208	13844	345.5	171.5	forward	down
+5208	13864	345.5	171.5	forward	down
+5208	13877	345.5	171.5	forward	down
+5208	13894	345.5	171.5	forward	down
+5208	13911	345.5	171.5	forward	down
+5208	13928	345.5	171.5	forward	down

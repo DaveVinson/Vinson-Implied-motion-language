@@ -1,0 +1,20 @@
+Mon Apr 7 7:24:14 MDT 2014
+6150	262	179.55	4	forward	down	No I was more worried about the car.
+mousemove
+6150	15109	259.55	183.8	forward	down
+6150	15126	260.75	181.35	forward	down
+6150	15143	261.35	180.15	forward	down
+6150	15160	262	180.15	forward	down
+6150	15176	262	179.55	forward	down
+6150	15194	262	179.55	forward	down
+6150	15209	262	179.55	forward	down
+6150	15226	262	179.55	forward	down
+6150	15243	262	179.55	forward	down
+6150	15259	262	179.55	forward	down
+6150	15277	262	179.55	forward	down
+6150	15293	262	179.55	forward	down
+6150	15309	262	179.55	forward	down
+6150	15327	262	179.55	forward	down
+6150	15343	262	179.55	forward	down
+6150	15359	262	179.55	forward	down
+6150	15376	262	179.55	forward	down
